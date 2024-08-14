@@ -77,7 +77,7 @@ Due to data size limitations, the pre-trained models are stored [here](https://d
     - **Validation path:** Click the ‘Choose’ button to select the validation data you have downloaded.
 
 <div align="center">
-<img width="480" height="180" src="/Deep_DORM/fig/Config_inference.png"/>
+<img width="480" height="180" src="/fig/Config_inference.png"/>
 </div>
 
 3. Click the ‘Start running’ button to begin inference. The model outputs will be saved in a newly created subfolder within the “Validation path.”
